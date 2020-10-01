@@ -1,0 +1,4 @@
+git status to get update stuff
+git add .
+git commit -m "Comment related to the push"
+git push origin master
