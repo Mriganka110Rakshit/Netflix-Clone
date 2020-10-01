@@ -20,7 +20,7 @@ function Nav() {
       <img
         className="nav_logo"
         src="https://academysuccess.com/wp-content/uploads/2011/10/netflix-logo.jpg"
-        alt="Netflix Logo"
+        alt=" "
       />
       <img
         className="nav_avatar"
